@@ -34,6 +34,10 @@ header{
     font-size: 20px;
     color: var(--black-color);
 }
+.navbar{
+    display: flex;
+    border: 1px solid red;
+}
 .navbar a{
     padding: 10px 20px;
     color: var(--black-color);
